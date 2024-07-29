@@ -30,3 +30,6 @@ The process consisted in 3 stages:
 2) [Data Visualization]()
 
 # Results
+
+Based on these results, I would say that obtaining 25 points is likely a secured direct spot into the Man's Soccer World Cup
+![image](https://github.com/user-attachments/assets/11392608-94a7-482a-809e-b1d3159528b4)
